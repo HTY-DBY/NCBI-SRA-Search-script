@@ -41,12 +41,6 @@ main_2.py 使用 ```Link_results.json``` 的数据，结束后会在 ```\Data\Da
 # 3. 运行全套流程的控制台输出示例!
 
 ```
-D:\hty\ins\Anaconda\envs\p39\python.exe "D:/hty/ins/PyCharm_2024/PyCharm 2024.2.2/plugins/python-ce/helpers/pydev/pydevconsole.py" --mode=client --host=127.0.0.1 --port=52657 
-import sys; print('Python %s on %s' % (sys.version, sys.platform))
-sys.path.extend(['D:\\hty\\creat\\code\\github\\NCBI-SRA-Search-script'])
-PyDev console: starting.
-Python 3.9.18 (main, Sep 11 2023, 13:30:38) [MSC v.1916 64 bit (AMD64)] on win32
-runfile('D:\\hty\\creat\\code\\github\\NCBI-SRA-Search-script\\PY\\Main.py', wdir='D:\\hty\\creat\\code\\github\\NCBI-SRA-Search-script\\PY')
 初始化 WebDriver 中
 初始化 WebDriver 完成
 trichloromethane: 1/5 页
