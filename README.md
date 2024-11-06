@@ -81,7 +81,7 @@ Trichlorophenol  共 9 个数据
 翻译进度 109/109 - SRX24052131: GSM8168250: Plate13_D17; Homo sapiens; RNA-Seq
 数据更新到 D:\hty\creat\code\github\NCBI-SRA-Search-script\Data\Data_temp\Translated_results.json
 进度 1/2 - Trichlorophenol 
-已保存到 D:\hty\creat\code\github\NCBI-SRA-Search-script\Data\Data_fin\Trichlorophenol .docx
+已保存到 D:\hty\creat\code\github\NCBI-SRA-Search-script\Data\Data_fin\Trichlorophenol.docx
 进度 2/2 - trichloromethane
 已保存到 D:\hty\creat\code\github\NCBI-SRA-Search-script\Data\Data_fin\trichloromethane.docx
 
