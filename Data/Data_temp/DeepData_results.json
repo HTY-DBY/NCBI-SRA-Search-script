@@ -1,0 +1,983 @@
+{
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991988": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991988",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153964_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153964\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387161",
+        "Title": "SRX23991988: GSM8153964: ovary, H2; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX24419487": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24419487",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8244989_r1",
+        "Study": "Multi-omics integration reveals the dynamic impacts of stock enhancement on the intestinal health condition in kaluga sturgeon (Huso dauricus)",
+        "Library": "Library:\nName: GSM8244989\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 90 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 6 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28859445",
+        "Title": "SRX24419487: GSM8244989: gut, D14FL1; Huso dauricus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX5525572": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX5525572",
+        "Submitted": "Friedrich-Loeffler-Institut Federal Research Institute for Animal Health Institute of Diagnostic Virology (Friedrich-Loeffler-Institut Federal Research Insti)",
+        "Design": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Study": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Library": "Library:\nName: BHK_InV_3_p\nInstrument: NextSeq 500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PolyA\nLayout: PAIRED\nConstruction protocol: Batches of each of the cell lines BHK179, BHK-2P and BHK-InV were lysed in three volumes of TRIzol LS Reagent. Culture conditions were 37 °C, 5% CO2, and for suspension cells 320 rpm in TubeSpin bioreactors (TPP Techno Plastic Products AG, Trasadingen, Switzerland) at 80% relative humidity. All adherent cell lines were cultured in Minimum Essential Medium Eagle (MEM) supplemented with Hanks' and Earle's salts (Sigma-Aldrich) with 10% FBS. All suspension cell lines were adapted to grow in CellventoTM BHK200 medium (Merck KGaA). After adding trichloromethane the aqueous phase was collected and mixed with one volume of 100% ethanol. From this, total RNA was extracted using the RNeasy Mini Kit (Qiagen, Hilden, Germany) with on-column DNase digestion with the RNase-Free DNase Set (Qiagen). The ERCC RNA Spike-In Mix 1 (Thermo Fisher Scientific) was added and used as an internal control for all following steps. Next, polyadenylated mRNA was isolated from 1-3 µg of high-quality total RNA using the Dynabeads mRNA DIRECT Micro kit (Thermo Fisher Scientific). The mRNA was subsequently fragmented and used for cDNA synthesis and library preparation using the TruSeq Stranded mRNA LT Sample Prep Kit (Illumina, San Diego, USA) according to the manufacturer's instructions.",
+        "BioData": "ERR5882043",
+        "Title": "ERX5525572: NextSeq 500 paired end sequencing; Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX17532088": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX17532088",
+        "Submitted": "BNU",
+        "Design": "GSM6573333_r1",
+        "Study": "Granulocyte-monocyte progenitor (GMP) RNA-seq in wild type and MST1-deficient mice.",
+        "Library": "Library:\nName: GSM6573333\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Trizol and 0.2-fold volume of trichloromethane were added to the cells, and isopropanol and absolute ethanol were added to precipitate the extracted RNA. The RNA was dissolved with water and the RNA concentration and purity were detected with nano drop. RNA was enriched with magnetic beads with oligo (DT), then cDNA was synthesized using mRNA as a template, double stranded cDNA was purified and amplified by PCR.",
+        "BioData": "SRR21529728",
+        "Title": "SRX17532088: GSM6573333: KO1; Mus musculus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4680921": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4680921",
+        "Submitted": "Transcriptomic de novo analysis of pitaya (Hylocereus polyrhizus) canker disease caused by Neoscytalidium dimidiatum\nPRJNA490886 • SRP161778 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "Diseased D1",
+        "Library": "Library:\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Tissues (100 mg) were placed into a precooled mortar to be ground into a powder with liquid nitrogen. The ground stem powder was collected into a precooled 2 mL Eppendorf tube with 2 mL RNase-free cetyltrimethylammonium bromide (CTAB) extracting solution, which contained 0.1% diethyl pyrocarbonate (DEPC), 2.5% CTAB, 1.4 M NaCl, 20 mM EDTA, 100 mM Tris-HCl (pH 8.0), and 4% polyvinylpyrrolidone (PVP). The tubes were then placed in a water bath at 65 °C for 30 min to induce cell lysis, and centrifuged at 13,000 rpm for 5 min at 25-28 °C. The residue was discarded, and the supernatant solution was transferred into a clean 2 mL Eppendorf tube. Trichloromethane (1 mL) was added to the supernatant solution, blended lightly, and centrifuged at 13 000 rpm for 15 min at 4 °C. The supernatant was transferred into a clean 2 mL Eppendorf tube, and this procedure was repeated once more. Subsequently, 8 M lithium chloride was added with RNase-free water to 0.6 volume of the supernatant and left overnight. The mixture was centrifuged for 30 min at 13 000 rpm and 4 °C to obtain the RNA precipitate. RNase-free ethyl alcohol (75%) was used to wash the RNA precipitate twice. Finally, RNA was dissolved in RNase-free ddH2O and stored at -80 °C until further use. Poly (A) mRNA from the total RNA was enriched by poly-T oligo-attached magnetic beads (Invitrogen), according to the manufacturer's protocol. Purified mRNA was then divided into short fragments by mixing with fragmentation buffer. The first strand cDNA was synthesized using a random hexamer primer. The buffer, dNTPs, RNase H, and DNA polymerase I were then added to the fragmented mRNA templates to synthesize the second-strand cDNA. The double-stranded cDNA was purified using magnetic beads. End repair and the addition of 3′-end single nucleotide A (adenine) were then performed. Finally, sequencing adaptors were ligated to the fragments, which were enriched by PCR amplification. During the quality control step, a 2100 Bioanalyzer (Agilent, Santa Clara, CA, USA) and a StepOnePlus Real-Time PCR System (Applied Biosystems Inc., Foster City, CA, USA) were used to qualify and quantify sequences for the sample libraries. The constructed library products were prepared for sequencing using a HiSeq 2000 system (Illumina, San Diego, CA, USA) at the Beijing Genomics Institute (BGI).",
+        "BioData": "SRR7829958",
+        "Title": "SRX4680921: GSM3389637: Diseased D1; Hylocereus polyrhizus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177112": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177112",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "GEO accession GSM4799936 is currently private and is scheduled to be released on Sep 01, 2022.",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697489",
+        "Title": "SRX9177112: GSM4799936: active_ALKBH5_dox_minus_ip2; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4500787": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4500787",
+        "Submitted": "State Key Laboratory of Silkworm Genome Biology",
+        "Design": "For RNA sequnencing, total RNA was extracted from fat body at different development stage respectively. 1-17mg fat body were dissected in PBS and directly transferred to Trizol (Invitrogen, USA), then grinded with liquid nitrogen. RNA was extracted again trichloromethane, after precipitate by isopropanol and cleared by 75% ethanol, RNA samples were stored in a refrigerator at 80C for sequencing libraries. Each cDNA sample was clustered using Oligo-dT magnetic beads and then sequenced on the HiSeq2000 (Illumina, USA) platform using Single-read techology. All of the Raw data presented in this study have been deposited in the NCBI Short Read Archive (http://www.ncbi.nlm.nih.gov/sra/) under SRA accession number",
+        "Study": "RNA-seq of Bombyx mori: male fat body",
+        "Library": "Library:\nName: P0_rep2\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR7637238",
+        "Title": "SRX4500787: RNA-seq of Bombyx mori: male fat body"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177109": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177109",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "GEO accession GSM4799932 is currently private and is scheduled to be released on Sep 01, 2022.",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697486",
+        "Title": "SRX9177109: GSM4799932: active_ALKBH5_dox_minus_input1; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177118": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177118",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "inactive_ALKBH5_dox_minus_ip1",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697495",
+        "Title": "SRX9177118: GSM4799944: inactive_ALKBH5_dox_minus_ip1; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX5525571": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX5525571",
+        "Submitted": "Friedrich-Loeffler-Institut Federal Research Institute for Animal Health Institute of Diagnostic Virology (Friedrich-Loeffler-Institut Federal Research Insti)",
+        "Design": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Study": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Library": "Library:\nName: BHK_InV_2_p\nInstrument: NextSeq 500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PolyA\nLayout: PAIRED\nConstruction protocol: Batches of each of the cell lines BHK179, BHK-2P and BHK-InV were lysed in three volumes of TRIzol LS Reagent. Culture conditions were 37 °C, 5% CO2, and for suspension cells 320 rpm in TubeSpin bioreactors (TPP Techno Plastic Products AG, Trasadingen, Switzerland) at 80% relative humidity. All adherent cell lines were cultured in Minimum Essential Medium Eagle (MEM) supplemented with Hanks' and Earle's salts (Sigma-Aldrich) with 10% FBS. All suspension cell lines were adapted to grow in CellventoTM BHK200 medium (Merck KGaA). After adding trichloromethane the aqueous phase was collected and mixed with one volume of 100% ethanol. From this, total RNA was extracted using the RNeasy Mini Kit (Qiagen, Hilden, Germany) with on-column DNase digestion with the RNase-Free DNase Set (Qiagen). The ERCC RNA Spike-In Mix 1 (Thermo Fisher Scientific) was added and used as an internal control for all following steps. Next, polyadenylated mRNA was isolated from 1-3 µg of high-quality total RNA using the Dynabeads mRNA DIRECT Micro kit (Thermo Fisher Scientific). The mRNA was subsequently fragmented and used for cDNA synthesis and library preparation using the TruSeq Stranded mRNA LT Sample Prep Kit (Illumina, San Diego, USA) according to the manufacturer's instructions.",
+        "BioData": "ERR5882042",
+        "Title": "ERX5525571: NextSeq 500 paired end sequencing; Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991991": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991991",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153967_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153967\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387158",
+        "Title": "SRX23991991: GSM8153967: ovary, H5; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761843": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761843",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: Cont1\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410430",
+        "Title": "SRX10761843: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23450327": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23450327",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8046385_r1",
+        "Study": "Excessive heavy metals enrichment disturbs the liver function through gut microbe in great Himalayan leaf-nosed bat (Hipposideros armiger)",
+        "Library": "Library:\nName: GSM8046385\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in liver tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR27785531",
+        "Title": "SRX23450327: GSM8046385: liver,CW2; Hipposideros armiger; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX24419489": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24419489",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8244991_r1",
+        "Study": "Multi-omics integration reveals the dynamic impacts of stock enhancement on the intestinal health condition in kaluga sturgeon (Huso dauricus)",
+        "Library": "Library:\nName: GSM8244991\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 90 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 6 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28859444",
+        "Title": "SRX24419489: GSM8244991: gut, D14FL3; Huso dauricus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4500782": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4500782",
+        "Submitted": "State Key Laboratory of Silkworm Genome Biology",
+        "Design": "For RNA sequnencing, total RNA was extracted from fat body at different development stage respectively. 1-12mg fat body were dissected in PBS and directly transferred to Trizol (Invitrogen, USA), then grinded with liquid nitrogen. RNA was extracted again trichloromethane, after precipitate by isopropanol and cleared by 75% ethanol, RNA samples were stored in a refrigerator at 80C for sequencing libraries. Each cDNA sample was clustered using Oligo-dT magnetic beads and then sequenced on the HiSeq2000 (Illumina, USA) platform using Single-read techology. All of the Raw data presented in this study have been deposited in the NCBI Short Read Archive (http://www.ncbi.nlm.nih.gov/sra/) under SRA accession number",
+        "Study": "RNA-seq of Bombyx mori: male fat body",
+        "Library": "Library:\nName: W0_rep1\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR7637243",
+        "Title": "SRX4500782: RNA-seq of Bombyx mori: male fat body"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761851": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761851",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AB12\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410422",
+        "Title": "SRX10761851: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4500781": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4500781",
+        "Submitted": "State Key Laboratory of Silkworm Genome Biology",
+        "Design": "For RNA sequnencing, total RNA was extracted from fat body at different development stage respectively. 1-11mg fat body were dissected in PBS and directly transferred to Trizol (Invitrogen, USA), then grinded with liquid nitrogen. RNA was extracted again trichloromethane, after precipitate by isopropanol and cleared by 75% ethanol, RNA samples were stored in a refrigerator at 80C for sequencing libraries. Each cDNA sample was clustered using Oligo-dT magnetic beads and then sequenced on the HiSeq2000 (Illumina, USA) platform using Single-read techology. All of the Raw data presented in this study have been deposited in the NCBI Short Read Archive (http://www.ncbi.nlm.nih.gov/sra/) under SRA accession number",
+        "Study": "RNA-seq of Bombyx mori: male fat body",
+        "Library": "Library:\nName: L5D3_rep2\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR7637244",
+        "Title": "SRX4500781: RNA-seq of Bombyx mori: male fat body"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761844": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761844",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: Cont2\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410429",
+        "Title": "SRX10761844: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX6432725": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX6432725",
+        "Submitted": "Transcriptome analysis of banana (Musa acuminata) in response to low-nitrogen stress\nPRJNA554129 • SRP214312 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "CR",
+        "Library": "Library:\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: Tissues (100 mg) were placed into a precooled mortar to be ground into a powder with liquid nitrogen. The powder was collected into a precooled 2 mL Eppendorf tube with 2 mL RNase-free cetyltrimethylammonium bromide (CTAB) extracting solution, which contained 0.1% diethyl pyrocarbonate (DEPC), 2.5% CTAB, 1.4 M NaCl, 20 mM EDTA, 100 mM Tris-HCl (pH 8.0), and 4% polyvinylpyrrolidone (PVP). The tubes were then placed in a water bath at 65 °C for 30 min to induce cell lysis, and centrifuged at 13,000 rpm for 5 min at 25-28 °C. The residue was discarded, and the supernatant solution was transferred into a clean 2 mL Eppendorf tube. Trichloromethane (1 mL) was added to the supernatant solution, blended lightly, and centrifuged at 13 000 rpm for 15 min at 4 °C. The supernatant was transferred into a clean 2 mL Eppendorf tube, and this procedure was repeated once more. Subsequently, 8 M lithium chloride was added with RNase-free water to 0.6 volume of the supernatant and left overnight. The mixture was centrifuged for 30 min at 13 000 rpm and 4 °C to obtain the RNA precipitate. RNase-free ethyl alcohol (75%) was used to wash the RNA precipitate twice. Finally, RNA was dissolved in RNase-free ddH2O and stored at -80 °C until further use. Poly (A) mRNA from the total RNA was enriched by poly-T oligo-attached magnetic beads (Invitrogen), according to the manufacturer's protocol. Purified mRNA was then divided into short fragments by mixing with fragmentation buffer. The first strand cDNA was synthesized using a random hexamer primer. The buffer, dNTPs, RNase H, and DNA polymerase I were then added to the fragmented mRNA templates to synthesize the second-strand cDNA. The double-stranded cDNA was purified using magnetic beads. End repair and the addition of 3′-end single nucleotide A (adenine) were then performed. Finally, sequencing adaptors were ligated to the fragments, which were enriched by PCR amplification. During the quality control step, a 2100 Bioanalyzer (Agilent, Santa Clara, CA, USA) and a StepOnePlus Real-Time PCR System (Applied Biosystems Inc., Foster City, CA, USA) were used to qualify and quantify sequences for the sample libraries. The constructed library products were prepared for sequencing using a HiSeq 2000 system (Illumina, San Diego, CA, USA) at the Beijing Genomics Institute (BGI).",
+        "BioData": "SRR9672273",
+        "Title": "SRX6432725: GSM3938244: CR; Musa acuminata AAA Group; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991989": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991989",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153965_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153965\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387160",
+        "Title": "SRX23991989: GSM8153965: ovary, H3; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4500789": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4500789",
+        "Submitted": "State Key Laboratory of Silkworm Genome Biology",
+        "Design": "For RNA sequnencing, total RNA was extracted from fat body at different development stage respectively. 1-19mg fat body were dissected in PBS and directly transferred to Trizol (Invitrogen, USA), then grinded with liquid nitrogen. RNA was extracted again trichloromethane, after precipitate by isopropanol and cleared by 75% ethanol, RNA samples were stored in a refrigerator at 80C for sequencing libraries. Each cDNA sample was clustered using Oligo-dT magnetic beads and then sequenced on the HiSeq2000 (Illumina, USA) platform using Single-read techology. All of the Raw data presented in this study have been deposited in the NCBI Short Read Archive (http://www.ncbi.nlm.nih.gov/sra/) under SRA accession number",
+        "Study": "RNA-seq of Bombyx mori: male fat body",
+        "Library": "Library:\nName: P3_rep2\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR7637236",
+        "Title": "SRX4500789: RNA-seq of Bombyx mori: male fat body"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX5525566": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX5525566",
+        "Submitted": "Friedrich-Loeffler-Institut Federal Research Institute for Animal Health Institute of Diagnostic Virology (Friedrich-Loeffler-Institut Federal Research Insti)",
+        "Design": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Study": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Library": "Library:\nName: BHK_179_3_p\nInstrument: NextSeq 500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PolyA\nLayout: PAIRED\nConstruction protocol: Batches of each of the cell lines BHK179, BHK-2P and BHK-InV were lysed in three volumes of TRIzol LS Reagent. Culture conditions were 37 °C, 5% CO2, and for suspension cells 320 rpm in TubeSpin bioreactors (TPP Techno Plastic Products AG, Trasadingen, Switzerland) at 80% relative humidity. All adherent cell lines were cultured in Minimum Essential Medium Eagle (MEM) supplemented with Hanks' and Earle's salts (Sigma-Aldrich) with 10% FBS. All suspension cell lines were adapted to grow in CellventoTM BHK200 medium (Merck KGaA). After adding trichloromethane the aqueous phase was collected and mixed with one volume of 100% ethanol. From this, total RNA was extracted using the RNeasy Mini Kit (Qiagen, Hilden, Germany) with on-column DNase digestion with the RNase-Free DNase Set (Qiagen). The ERCC RNA Spike-In Mix 1 (Thermo Fisher Scientific) was added and used as an internal control for all following steps. Next, polyadenylated mRNA was isolated from 1-3 µg of high-quality total RNA using the Dynabeads mRNA DIRECT Micro kit (Thermo Fisher Scientific). The mRNA was subsequently fragmented and used for cDNA synthesis and library preparation using the TruSeq Stranded mRNA LT Sample Prep Kit (Illumina, San Diego, USA) according to the manufacturer's instructions.",
+        "BioData": "ERR5882038",
+        "Title": "ERX5525566: NextSeq 500 paired end sequencing; Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX25145395": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX25145395",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8367751_r1",
+        "Study": "Dynamic impacts of stock enhancement on wild Amur sturgeon (Acipenser schrenkii): New protection insight into intestinal microbe and gene expression mode",
+        "Library": "Library:\nName: GSM8367751\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 100 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 7 min, the mixture was centrifuged at 12500 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR29640993",
+        "Title": "SRX25145395: GSM8367751: gut, Q1; Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX5525569": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX5525569",
+        "Submitted": "Friedrich-Loeffler-Institut Federal Research Institute for Animal Health Institute of Diagnostic Virology (Friedrich-Loeffler-Institut Federal Research Insti)",
+        "Design": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Study": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Library": "Library:\nName: BHK_2P_3_p\nInstrument: NextSeq 500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PolyA\nLayout: PAIRED\nConstruction protocol: Batches of each of the cell lines BHK179, BHK-2P and BHK-InV were lysed in three volumes of TRIzol LS Reagent. Culture conditions were 37 °C, 5% CO2, and for suspension cells 320 rpm in TubeSpin bioreactors (TPP Techno Plastic Products AG, Trasadingen, Switzerland) at 80% relative humidity. All adherent cell lines were cultured in Minimum Essential Medium Eagle (MEM) supplemented with Hanks' and Earle's salts (Sigma-Aldrich) with 10% FBS. All suspension cell lines were adapted to grow in CellventoTM BHK200 medium (Merck KGaA). After adding trichloromethane the aqueous phase was collected and mixed with one volume of 100% ethanol. From this, total RNA was extracted using the RNeasy Mini Kit (Qiagen, Hilden, Germany) with on-column DNase digestion with the RNase-Free DNase Set (Qiagen). The ERCC RNA Spike-In Mix 1 (Thermo Fisher Scientific) was added and used as an internal control for all following steps. Next, polyadenylated mRNA was isolated from 1-3 µg of high-quality total RNA using the Dynabeads mRNA DIRECT Micro kit (Thermo Fisher Scientific). The mRNA was subsequently fragmented and used for cDNA synthesis and library preparation using the TruSeq Stranded mRNA LT Sample Prep Kit (Illumina, San Diego, USA) according to the manufacturer's instructions.",
+        "BioData": "ERR5882040",
+        "Title": "ERX5525569: NextSeq 500 paired end sequencing; Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4500788": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4500788",
+        "Submitted": "State Key Laboratory of Silkworm Genome Biology",
+        "Design": "For RNA sequnencing, total RNA was extracted from fat body at different development stage respectively. 1-18mg fat body were dissected in PBS and directly transferred to Trizol (Invitrogen, USA), then grinded with liquid nitrogen. RNA was extracted again trichloromethane, after precipitate by isopropanol and cleared by 75% ethanol, RNA samples were stored in a refrigerator at 80C for sequencing libraries. Each cDNA sample was clustered using Oligo-dT magnetic beads and then sequenced on the HiSeq2000 (Illumina, USA) platform using Single-read techology. All of the Raw data presented in this study have been deposited in the NCBI Short Read Archive (http://www.ncbi.nlm.nih.gov/sra/) under SRA accession number",
+        "Study": "RNA-seq of Bombyx mori: male fat body",
+        "Library": "Library:\nName: P3_rep1\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR7637237",
+        "Title": "SRX4500788: RNA-seq of Bombyx mori: male fat body"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX17532086": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX17532086",
+        "Submitted": "BNU",
+        "Design": "GSM6573331_r1",
+        "Study": "Granulocyte-monocyte progenitor (GMP) RNA-seq in wild type and MST1-deficient mice.",
+        "Library": "Library:\nName: GSM6573331\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Trizol and 0.2-fold volume of trichloromethane were added to the cells, and isopropanol and absolute ethanol were added to precipitate the extracted RNA. The RNA was dissolved with water and the RNA concentration and purity were detected with nano drop. RNA was enriched with magnetic beads with oligo (DT), then cDNA was synthesized using mRNA as a template, double stranded cDNA was purified and amplified by PCR.",
+        "BioData": "SRR21529730",
+        "Title": "SRX17532086: GSM6573331: WT1; Mus musculus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177119": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177119",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "GEO accession GSM4799945 is currently private and is scheduled to be released on Sep 01, 2022.",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697496",
+        "Title": "SRX9177119: GSM4799945: inactive_ALKBH5_dox_plus_input1; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991999": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991999",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153975_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153975\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387150",
+        "Title": "SRX23991999: GSM8153975: ovary, L5; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX24419485": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24419485",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8244987_r1",
+        "Study": "Multi-omics integration reveals the dynamic impacts of stock enhancement on the intestinal health condition in kaluga sturgeon (Huso dauricus)",
+        "Library": "Library:\nName: GSM8244987\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 90 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 6 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28859449",
+        "Title": "SRX24419485: GSM8244987: gut, Ori2; Huso dauricus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4680923": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4680923",
+        "Submitted": "Transcriptomic de novo analysis of pitaya (Hylocereus polyrhizus) canker disease caused by Neoscytalidium dimidiatum\nPRJNA490886 • SRP161778 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "Normal N2",
+        "Library": "Library:\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Tissues (100 mg) were placed into a precooled mortar to be ground into a powder with liquid nitrogen. The ground stem powder was collected into a precooled 2 mL Eppendorf tube with 2 mL RNase-free cetyltrimethylammonium bromide (CTAB) extracting solution, which contained 0.1% diethyl pyrocarbonate (DEPC), 2.5% CTAB, 1.4 M NaCl, 20 mM EDTA, 100 mM Tris-HCl (pH 8.0), and 4% polyvinylpyrrolidone (PVP). The tubes were then placed in a water bath at 65 °C for 30 min to induce cell lysis, and centrifuged at 13,000 rpm for 5 min at 25-28 °C. The residue was discarded, and the supernatant solution was transferred into a clean 2 mL Eppendorf tube. Trichloromethane (1 mL) was added to the supernatant solution, blended lightly, and centrifuged at 13 000 rpm for 15 min at 4 °C. The supernatant was transferred into a clean 2 mL Eppendorf tube, and this procedure was repeated once more. Subsequently, 8 M lithium chloride was added with RNase-free water to 0.6 volume of the supernatant and left overnight. The mixture was centrifuged for 30 min at 13 000 rpm and 4 °C to obtain the RNA precipitate. RNase-free ethyl alcohol (75%) was used to wash the RNA precipitate twice. Finally, RNA was dissolved in RNase-free ddH2O and stored at -80 °C until further use. Poly (A) mRNA from the total RNA was enriched by poly-T oligo-attached magnetic beads (Invitrogen), according to the manufacturer's protocol. Purified mRNA was then divided into short fragments by mixing with fragmentation buffer. The first strand cDNA was synthesized using a random hexamer primer. The buffer, dNTPs, RNase H, and DNA polymerase I were then added to the fragmented mRNA templates to synthesize the second-strand cDNA. The double-stranded cDNA was purified using magnetic beads. End repair and the addition of 3′-end single nucleotide A (adenine) were then performed. Finally, sequencing adaptors were ligated to the fragments, which were enriched by PCR amplification. During the quality control step, a 2100 Bioanalyzer (Agilent, Santa Clara, CA, USA) and a StepOnePlus Real-Time PCR System (Applied Biosystems Inc., Foster City, CA, USA) were used to qualify and quantify sequences for the sample libraries. The constructed library products were prepared for sequencing using a HiSeq 2000 system (Illumina, San Diego, CA, USA) at the Beijing Genomics Institute (BGI).",
+        "BioData": "SRR7829960",
+        "Title": "SRX4680923: GSM3389639: Normal N2; Hylocereus polyrhizus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991992": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991992",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153968_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153968\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387157",
+        "Title": "SRX23991992: GSM8153968: ovary, H6; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23366459": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23366459",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8031811_r1",
+        "Study": "Excessive heavy metals enrichment disturbs the liver function through gut microbe in great Himalayan leaf-nosed bat (Hipposideros armiger)",
+        "Library": "Library:\nName: GSM8031811\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in liver tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR27699634",
+        "Title": "SRX23366459: GSM8031811: liver,CW1; Hipposideros armiger; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991996": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991996",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153972_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153972\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387153",
+        "Title": "SRX23991996: GSM8153972: ovary, L2; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX24419484": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24419484",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8244986_r1",
+        "Study": "Multi-omics integration reveals the dynamic impacts of stock enhancement on the intestinal health condition in kaluga sturgeon (Huso dauricus)",
+        "Library": "Library:\nName: GSM8244986\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 90 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 6 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28859450",
+        "Title": "SRX24419484: GSM8244986: gut, Ori1; Huso dauricus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX25145400": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX25145400",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8367756_r1",
+        "Study": "Dynamic impacts of stock enhancement on wild Amur sturgeon (Acipenser schrenkii): New protection insight into intestinal microbe and gene expression mode",
+        "Library": "Library:\nName: GSM8367756\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 100 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 7 min, the mixture was centrifuged at 12500 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR29640988",
+        "Title": "SRX25145400: GSM8367756: gut, H3; Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX5525567": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX5525567",
+        "Submitted": "Friedrich-Loeffler-Institut Federal Research Institute for Animal Health Institute of Diagnostic Virology (Friedrich-Loeffler-Institut Federal Research Insti)",
+        "Design": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Study": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Library": "Library:\nName: BHK_2P_1_s\nInstrument: NextSeq 500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PolyA\nLayout: SINGLE\nConstruction protocol: Batches of each of the cell lines BHK179, BHK-2P and BHK-InV were lysed in three volumes of TRIzol LS Reagent. Culture conditions were 37 °C, 5% CO2, and for suspension cells 320 rpm in TubeSpin bioreactors (TPP Techno Plastic Products AG, Trasadingen, Switzerland) at 80% relative humidity. All adherent cell lines were cultured in Minimum Essential Medium Eagle (MEM) supplemented with Hanks' and Earle's salts (Sigma-Aldrich) with 10% FBS. All suspension cell lines were adapted to grow in CellventoTM BHK200 medium (Merck KGaA). After adding trichloromethane the aqueous phase was collected and mixed with one volume of 100% ethanol. From this, total RNA was extracted using the RNeasy Mini Kit (Qiagen, Hilden, Germany) with on-column DNase digestion with the RNase-Free DNase Set (Qiagen). The ERCC RNA Spike-In Mix 1 (Thermo Fisher Scientific) was added and used as an internal control for all following steps. Next, polyadenylated mRNA was isolated from 1-3 µg of high-quality total RNA using the Dynabeads mRNA DIRECT Micro kit (Thermo Fisher Scientific). The mRNA was subsequently fragmented and used for cDNA synthesis and library preparation using the TruSeq Stranded mRNA LT Sample Prep Kit (Illumina, San Diego, USA) according to the manufacturer's instructions.",
+        "BioData": "ERR5882035",
+        "Title": "ERX5525567: NextSeq 500 sequencing; Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761862": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761862",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AA16\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410411",
+        "Title": "SRX10761862: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991998": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991998",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153974_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153974\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387151",
+        "Title": "SRX23991998: GSM8153974: ovary, L4; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX5525568": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX5525568",
+        "Submitted": "Friedrich-Loeffler-Institut Federal Research Institute for Animal Health Institute of Diagnostic Virology (Friedrich-Loeffler-Institut Federal Research Insti)",
+        "Design": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Study": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Library": "Library:\nName: BHK_2P_2_p\nInstrument: NextSeq 500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PolyA\nLayout: PAIRED\nConstruction protocol: Batches of each of the cell lines BHK179, BHK-2P and BHK-InV were lysed in three volumes of TRIzol LS Reagent. Culture conditions were 37 °C, 5% CO2, and for suspension cells 320 rpm in TubeSpin bioreactors (TPP Techno Plastic Products AG, Trasadingen, Switzerland) at 80% relative humidity. All adherent cell lines were cultured in Minimum Essential Medium Eagle (MEM) supplemented with Hanks' and Earle's salts (Sigma-Aldrich) with 10% FBS. All suspension cell lines were adapted to grow in CellventoTM BHK200 medium (Merck KGaA). After adding trichloromethane the aqueous phase was collected and mixed with one volume of 100% ethanol. From this, total RNA was extracted using the RNeasy Mini Kit (Qiagen, Hilden, Germany) with on-column DNase digestion with the RNase-Free DNase Set (Qiagen). The ERCC RNA Spike-In Mix 1 (Thermo Fisher Scientific) was added and used as an internal control for all following steps. Next, polyadenylated mRNA was isolated from 1-3 µg of high-quality total RNA using the Dynabeads mRNA DIRECT Micro kit (Thermo Fisher Scientific). The mRNA was subsequently fragmented and used for cDNA synthesis and library preparation using the TruSeq Stranded mRNA LT Sample Prep Kit (Illumina, San Diego, USA) according to the manufacturer's instructions.",
+        "BioData": "ERR5882039",
+        "Title": "ERX5525568: NextSeq 500 paired end sequencing; Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761855": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761855",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: Cont3\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410418",
+        "Title": "SRX10761855: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX5525570": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX5525570",
+        "Submitted": "Friedrich-Loeffler-Institut Federal Research Institute for Animal Health Institute of Diagnostic Virology (Friedrich-Loeffler-Institut Federal Research Insti)",
+        "Design": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Study": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Library": "Library:\nName: BHK_InV_1_p\nInstrument: NextSeq 500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PolyA\nLayout: PAIRED\nConstruction protocol: Batches of each of the cell lines BHK179, BHK-2P and BHK-InV were lysed in three volumes of TRIzol LS Reagent. Culture conditions were 37 °C, 5% CO2, and for suspension cells 320 rpm in TubeSpin bioreactors (TPP Techno Plastic Products AG, Trasadingen, Switzerland) at 80% relative humidity. All adherent cell lines were cultured in Minimum Essential Medium Eagle (MEM) supplemented with Hanks' and Earle's salts (Sigma-Aldrich) with 10% FBS. All suspension cell lines were adapted to grow in CellventoTM BHK200 medium (Merck KGaA). After adding trichloromethane the aqueous phase was collected and mixed with one volume of 100% ethanol. From this, total RNA was extracted using the RNeasy Mini Kit (Qiagen, Hilden, Germany) with on-column DNase digestion with the RNase-Free DNase Set (Qiagen). The ERCC RNA Spike-In Mix 1 (Thermo Fisher Scientific) was added and used as an internal control for all following steps. Next, polyadenylated mRNA was isolated from 1-3 µg of high-quality total RNA using the Dynabeads mRNA DIRECT Micro kit (Thermo Fisher Scientific). The mRNA was subsequently fragmented and used for cDNA synthesis and library preparation using the TruSeq Stranded mRNA LT Sample Prep Kit (Illumina, San Diego, USA) according to the manufacturer's instructions.",
+        "BioData": "ERR5882041",
+        "Title": "ERX5525570: NextSeq 500 paired end sequencing; Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX25145396": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX25145396",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8367752_r1",
+        "Study": "Dynamic impacts of stock enhancement on wild Amur sturgeon (Acipenser schrenkii): New protection insight into intestinal microbe and gene expression mode",
+        "Library": "Library:\nName: GSM8367752\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 100 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 7 min, the mixture was centrifuged at 12500 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR29640992",
+        "Title": "SRX25145396: GSM8367752: gut, Q2; Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761845": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761845",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AA18\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410428",
+        "Title": "SRX10761845: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX645737": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX645737",
+        "Submitted": "Institute for molecular and tumor biology Philipps University Marburg Germany (Institute for molecular and tumor biology Philipps)",
+        "Design": "Deregulation of PPAR-beta/delta target genes in tumor-associated macrophages by fatty acid ligands in the ovarian cancer microenvironment - RNAseq",
+        "Study": "Deregulation of PPAR-beta/delta target genes in tumor-associated macrophages by fatty acid ligands in the ovarian cancer microenvironment - RNAseq",
+        "Library": "Library:\nName: ST004\nInstrument: Illumina Genome Analyzer II\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: RANDOM\nLayout: SINGLE\nConstruction protocol: Ascites was collected from 30 patients with high-grade serous ovarian carcinoma undergoing primary surgery at the University Hospital in Marburg. Informed consent was obtained from all patients according to the protocols approved by the local ethical committe Cells were isolated on June 06th 2013 from healthy human donor blood of unknown gender via LSM1077 gradient centrifugation. Adherent cells were positively selected on primaria 6 well dishes (3x10^6 monocytes per well in 2 ml PBS (PAA)) followed by 6 washing steps with PBS. Finally the monocytes were cultured for 6d in humidified incubator at 37 degrees C, 5 % CO2 in 2ml RPMI medium supplemented with 10 % FCS (both PAA). Cells were treated with control (DMSO), L165 1 uM final concentration or ST247 300 nM final concentration for 1d. Cells were washed with PBS, supernatant was removed completly, then 1 ml of peqGOLD TriFast (PEQLAB) was added to each well and transfered to a 1,5 ml Eppi. Following 5 min of incubation at RT 200 ul trichloromethane were added to the solution. The probes were mixed thoroughly every 3 minutes during a 10 minute incubation at RT. Probes were centrifuged at 13.000 g for 15 min at 4 degrees C then the aquouse top phase was transfered to a new eppi containing 600 ul of ice cold 2-propanol. Probes were mixed and centrifuged for 10 min at 13.000 g, 4 degrees C. The supernatant was removed and the pelleted RNA was washed twice with 75 % Ethanol for 5 minutes at 13.000 g, 4 degrees C. The pellet was dried and dissolved in 15 ul of RNase free water following quality control using Xcalibur (Thermo scientific). Libraries were created using the Illumina Truseq mRNA kit used according to the manufacturer's instructions.",
+        "BioData": "ERR701473",
+        "Title": "ERX645737: Illumina Genome Analyzer II sequencing; Deregulation of PPAR-beta/delta target genes in tumor-associated macrophages by fatty acid ligands in the ovarian cancer microenvironment - RNAseq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX645736": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX645736",
+        "Submitted": "Institute for molecular and tumor biology Philipps University Marburg Germany (Institute for molecular and tumor biology Philipps)",
+        "Design": "Deregulation of PPAR-beta/delta target genes in tumor-associated macrophages by fatty acid ligands in the ovarian cancer microenvironment - RNAseq",
+        "Study": "Deregulation of PPAR-beta/delta target genes in tumor-associated macrophages by fatty acid ligands in the ovarian cancer microenvironment - RNAseq",
+        "Library": "Library:\nName: ST005\nInstrument: Illumina Genome Analyzer II\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: RANDOM\nLayout: SINGLE\nConstruction protocol: Ascites was collected from 30 patients with high-grade serous ovarian carcinoma undergoing primary surgery at the University Hospital in Marburg. Informed consent was obtained from all patients according to the protocols approved by the local ethical committe Cells were isolated on June 06th 2013 from healthy human donor blood of unknown gender via LSM1077 gradient centrifugation. Adherent cells were positively selected on primaria 6 well dishes (3x10^6 monocytes per well in 2 ml PBS (PAA)) followed by 6 washing steps with PBS. Finally the monocytes were cultured for 6d in humidified incubator at 37 degrees C, 5 % CO2 in 2ml RPMI medium supplemented with 10 % FCS (both PAA). Cells were treated with control (DMSO), L165 1 uM final concentration or ST247 300 nM final concentration for 1d. Cells were washed with PBS, supernatant was removed completly, then 1 ml of peqGOLD TriFast (PEQLAB) was added to each well and transfered to a 1,5 ml Eppi. Following 5 min of incubation at RT 200 ul trichloromethane were added to the solution. The probes were mixed thoroughly every 3 minutes during a 10 minute incubation at RT. Probes were centrifuged at 13.000 g for 15 min at 4 degrees C then the aquouse top phase was transfered to a new eppi containing 600 ul of ice cold 2-propanol. Probes were mixed and centrifuged for 10 min at 13.000 g, 4 degrees C. The supernatant was removed and the pelleted RNA was washed twice with 75 % Ethanol for 5 minutes at 13.000 g, 4 degrees C. The pellet was dried and dissolved in 15 ul of RNase free water following quality control using Xcalibur (Thermo scientific). Libraries were created using the Illumina Truseq mRNA kit used according to the manufacturer's instructions.",
+        "BioData": "ERR701471",
+        "Title": "ERX645736: Illumina Genome Analyzer II sequencing; Deregulation of PPAR-beta/delta target genes in tumor-associated macrophages by fatty acid ligands in the ovarian cancer microenvironment - RNAseq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4500785": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4500785",
+        "Submitted": "State Key Laboratory of Silkworm Genome Biology",
+        "Design": "For RNA sequnencing, total RNA was extracted from fat body at different development stage respectively. 1-15mg fat body were dissected in PBS and directly transferred to Trizol (Invitrogen, USA), then grinded with liquid nitrogen. RNA was extracted again trichloromethane, after precipitate by isopropanol and cleared by 75% ethanol, RNA samples were stored in a refrigerator at 80C for sequencing libraries. Each cDNA sample was clustered using Oligo-dT magnetic beads and then sequenced on the HiSeq2000 (Illumina, USA) platform using Single-read techology. All of the Raw data presented in this study have been deposited in the NCBI Short Read Archive (http://www.ncbi.nlm.nih.gov/sra/) under SRA accession number",
+        "Study": "RNA-seq of Bombyx mori: male fat body",
+        "Library": "Library:\nName: W2_rep2\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR7637240",
+        "Title": "SRX4500785: RNA-seq of Bombyx mori: male fat body"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX17532089": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX17532089",
+        "Submitted": "BNU",
+        "Design": "GSM6573334_r1",
+        "Study": "Granulocyte-monocyte progenitor (GMP) RNA-seq in wild type and MST1-deficient mice.",
+        "Library": "Library:\nName: GSM6573334\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Trizol and 0.2-fold volume of trichloromethane were added to the cells, and isopropanol and absolute ethanol were added to precipitate the extracted RNA. The RNA was dissolved with water and the RNA concentration and purity were detected with nano drop. RNA was enriched with magnetic beads with oligo (DT), then cDNA was synthesized using mRNA as a template, double stranded cDNA was purified and amplified by PCR.",
+        "BioData": "SRR21529727",
+        "Title": "SRX17532089: GSM6573334: KO2; Mus musculus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991990": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991990",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153966_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153966\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387159",
+        "Title": "SRX23991990: GSM8153966: ovary, H4; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761854": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761854",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AB8\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410419",
+        "Title": "SRX10761854: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177110": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177110",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "GEO accession GSM4799933 is currently private and is scheduled to be released on Sep 01, 2022.",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697487",
+        "Title": "SRX9177110: GSM4799933: active_ALKBH5_dox_minus_input2; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4500783": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4500783",
+        "Submitted": "State Key Laboratory of Silkworm Genome Biology",
+        "Design": "For RNA sequnencing, total RNA was extracted from fat body at different development stage respectively. 1-13mg fat body were dissected in PBS and directly transferred to Trizol (Invitrogen, USA), then grinded with liquid nitrogen. RNA was extracted again trichloromethane, after precipitate by isopropanol and cleared by 75% ethanol, RNA samples were stored in a refrigerator at 80C for sequencing libraries. Each cDNA sample was clustered using Oligo-dT magnetic beads and then sequenced on the HiSeq2000 (Illumina, USA) platform using Single-read techology. All of the Raw data presented in this study have been deposited in the NCBI Short Read Archive (http://www.ncbi.nlm.nih.gov/sra/) under SRA accession number",
+        "Study": "RNA-seq of Bombyx mori: male fat body",
+        "Library": "Library:\nName: W0_rep2\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR7637242",
+        "Title": "SRX4500783: RNA-seq of Bombyx mori: male fat body"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23992002": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23992002",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153978_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153978\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387147",
+        "Title": "SRX23992002: GSM8153978: ovary, L8; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761846": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761846",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AA19\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410427",
+        "Title": "SRX10761846: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX25145398": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX25145398",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8367754_r1",
+        "Study": "Dynamic impacts of stock enhancement on wild Amur sturgeon (Acipenser schrenkii): New protection insight into intestinal microbe and gene expression mode",
+        "Library": "Library:\nName: GSM8367754\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 100 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 7 min, the mixture was centrifuged at 12500 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR29640989",
+        "Title": "SRX25145398: GSM8367754: gut, H1; Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4680924": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4680924",
+        "Submitted": "Transcriptomic de novo analysis of pitaya (Hylocereus polyrhizus) canker disease caused by Neoscytalidium dimidiatum\nPRJNA490886 • SRP161778 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "Normal N3",
+        "Library": "Library:\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Tissues (100 mg) were placed into a precooled mortar to be ground into a powder with liquid nitrogen. The ground stem powder was collected into a precooled 2 mL Eppendorf tube with 2 mL RNase-free cetyltrimethylammonium bromide (CTAB) extracting solution, which contained 0.1% diethyl pyrocarbonate (DEPC), 2.5% CTAB, 1.4 M NaCl, 20 mM EDTA, 100 mM Tris-HCl (pH 8.0), and 4% polyvinylpyrrolidone (PVP). The tubes were then placed in a water bath at 65 °C for 30 min to induce cell lysis, and centrifuged at 13,000 rpm for 5 min at 25-28 °C. The residue was discarded, and the supernatant solution was transferred into a clean 2 mL Eppendorf tube. Trichloromethane (1 mL) was added to the supernatant solution, blended lightly, and centrifuged at 13 000 rpm for 15 min at 4 °C. The supernatant was transferred into a clean 2 mL Eppendorf tube, and this procedure was repeated once more. Subsequently, 8 M lithium chloride was added with RNase-free water to 0.6 volume of the supernatant and left overnight. The mixture was centrifuged for 30 min at 13 000 rpm and 4 °C to obtain the RNA precipitate. RNase-free ethyl alcohol (75%) was used to wash the RNA precipitate twice. Finally, RNA was dissolved in RNase-free ddH2O and stored at -80 °C until further use. Poly (A) mRNA from the total RNA was enriched by poly-T oligo-attached magnetic beads (Invitrogen), according to the manufacturer's protocol. Purified mRNA was then divided into short fragments by mixing with fragmentation buffer. The first strand cDNA was synthesized using a random hexamer primer. The buffer, dNTPs, RNase H, and DNA polymerase I were then added to the fragmented mRNA templates to synthesize the second-strand cDNA. The double-stranded cDNA was purified using magnetic beads. End repair and the addition of 3′-end single nucleotide A (adenine) were then performed. Finally, sequencing adaptors were ligated to the fragments, which were enriched by PCR amplification. During the quality control step, a 2100 Bioanalyzer (Agilent, Santa Clara, CA, USA) and a StepOnePlus Real-Time PCR System (Applied Biosystems Inc., Foster City, CA, USA) were used to qualify and quantify sequences for the sample libraries. The constructed library products were prepared for sequencing using a HiSeq 2000 system (Illumina, San Diego, CA, USA) at the Beijing Genomics Institute (BGI).",
+        "BioData": "SRR7829961",
+        "Title": "SRX4680924: GSM3389640: Normal N3; Hylocereus polyrhizus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23992001": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23992001",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153977_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153977\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387148",
+        "Title": "SRX23992001: GSM8153977: ovary, L7; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761850": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761850",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AB11\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410423",
+        "Title": "SRX10761850: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761859": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761859",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: Cont6\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410414",
+        "Title": "SRX10761859: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991997": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991997",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153973_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153973\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387152",
+        "Title": "SRX23991997: GSM8153973: ovary, L3; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991987": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991987",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153963_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153963\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387162",
+        "Title": "SRX23991987: GSM8153963: ovary, H1; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761858": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761858",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: Cont5\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410415",
+        "Title": "SRX10761858: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX6432726": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX6432726",
+        "Submitted": "Transcriptome analysis of banana (Musa acuminata) in response to low-nitrogen stress\nPRJNA554129 • SRP214312 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "NR",
+        "Library": "Library:\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: Tissues (100 mg) were placed into a precooled mortar to be ground into a powder with liquid nitrogen. The powder was collected into a precooled 2 mL Eppendorf tube with 2 mL RNase-free cetyltrimethylammonium bromide (CTAB) extracting solution, which contained 0.1% diethyl pyrocarbonate (DEPC), 2.5% CTAB, 1.4 M NaCl, 20 mM EDTA, 100 mM Tris-HCl (pH 8.0), and 4% polyvinylpyrrolidone (PVP). The tubes were then placed in a water bath at 65 °C for 30 min to induce cell lysis, and centrifuged at 13,000 rpm for 5 min at 25-28 °C. The residue was discarded, and the supernatant solution was transferred into a clean 2 mL Eppendorf tube. Trichloromethane (1 mL) was added to the supernatant solution, blended lightly, and centrifuged at 13 000 rpm for 15 min at 4 °C. The supernatant was transferred into a clean 2 mL Eppendorf tube, and this procedure was repeated once more. Subsequently, 8 M lithium chloride was added with RNase-free water to 0.6 volume of the supernatant and left overnight. The mixture was centrifuged for 30 min at 13 000 rpm and 4 °C to obtain the RNA precipitate. RNase-free ethyl alcohol (75%) was used to wash the RNA precipitate twice. Finally, RNA was dissolved in RNase-free ddH2O and stored at -80 °C until further use. Poly (A) mRNA from the total RNA was enriched by poly-T oligo-attached magnetic beads (Invitrogen), according to the manufacturer's protocol. Purified mRNA was then divided into short fragments by mixing with fragmentation buffer. The first strand cDNA was synthesized using a random hexamer primer. The buffer, dNTPs, RNase H, and DNA polymerase I were then added to the fragmented mRNA templates to synthesize the second-strand cDNA. The double-stranded cDNA was purified using magnetic beads. End repair and the addition of 3′-end single nucleotide A (adenine) were then performed. Finally, sequencing adaptors were ligated to the fragments, which were enriched by PCR amplification. During the quality control step, a 2100 Bioanalyzer (Agilent, Santa Clara, CA, USA) and a StepOnePlus Real-Time PCR System (Applied Biosystems Inc., Foster City, CA, USA) were used to qualify and quantify sequences for the sample libraries. The constructed library products were prepared for sequencing using a HiSeq 2000 system (Illumina, San Diego, CA, USA) at the Beijing Genomics Institute (BGI).",
+        "BioData": "SRR9672274",
+        "Title": "SRX6432726: GSM3938245: NR; Musa acuminata AAA Group; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX24419492": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24419492",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8244994_r1",
+        "Study": "Multi-omics integration reveals the dynamic impacts of stock enhancement on the intestinal health condition in kaluga sturgeon (Huso dauricus)",
+        "Library": "Library:\nName: GSM8244994\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 90 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 6 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28859442",
+        "Title": "SRX24419492: GSM8244994: gut, D30FL3; Huso dauricus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4500780": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4500780",
+        "Submitted": "State Key Laboratory of Silkworm Genome Biology",
+        "Design": "For RNA sequnencing, total RNA was extracted from fat body at different development stage respectively. 1-10mg fat body were dissected in PBS and directly transferred to Trizol (Invitrogen, USA), then grinded with liquid nitrogen. RNA was extracted again by trichloromethane, after precipitate by isopropanol and cleared by 75% ethanol, RNA samples were stored in a refrigerator at 80C for sequencing libraries. Each cDNA sample was clustered using Oligo-dT magnetic beads and then sequenced on the HiSeq2000 (Illumina, USA) platform using Single-read techology. All of the Raw data presented in this study have been deposited in the NCBI Short Read Archive (http://www.ncbi.nlm.nih.gov/sra/) under SRA accession number",
+        "Study": "RNA-seq of Bombyx mori: male fat body",
+        "Library": "Library:\nName: L5D3_rep1\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR7637245",
+        "Title": "SRX4500780: RNA-seq of Bombyx mori: male fat body"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761861": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761861",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AA15\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410412",
+        "Title": "SRX10761861: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX24419486": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24419486",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8244988_r1",
+        "Study": "Multi-omics integration reveals the dynamic impacts of stock enhancement on the intestinal health condition in kaluga sturgeon (Huso dauricus)",
+        "Library": "Library:\nName: GSM8244988\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 90 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 6 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28859446",
+        "Title": "SRX24419486: GSM8244988: gut, Ori3; Huso dauricus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761847": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761847",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AA20\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410426",
+        "Title": "SRX10761847: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761849": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761849",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AB10\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410424",
+        "Title": "SRX10761849: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX645742": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX645742",
+        "Submitted": "Institute for molecular and tumor biology Philipps University Marburg Germany (Institute for molecular and tumor biology Philipps)",
+        "Design": "Deregulation of PPAR-beta/delta target genes in tumor-associated macrophages by fatty acid ligands in the ovarian cancer microenvironment - RNAseq",
+        "Study": "Deregulation of PPAR-beta/delta target genes in tumor-associated macrophages by fatty acid ligands in the ovarian cancer microenvironment - RNAseq",
+        "Library": "Library:\nName: ST003\nInstrument: Illumina Genome Analyzer II\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: RANDOM\nLayout: SINGLE\nConstruction protocol: Ascites was collected from 30 patients with high-grade serous ovarian carcinoma undergoing primary surgery at the University Hospital in Marburg. Informed consent was obtained from all patients according to the protocols approved by the local ethical committe Cells were isolated on June 06th 2013 from healthy human donor blood of unknown gender via LSM1077 gradient centrifugation. Adherent cells were positively selected on primaria 6 well dishes (3x10^6 monocytes per well in 2 ml PBS (PAA)) followed by 6 washing steps with PBS. Finally the monocytes were cultured for 6d in humidified incubator at 37 degrees C, 5 % CO2 in 2ml RPMI medium supplemented with 10 % FCS (both PAA). Cells were treated with control (DMSO), L165 1 uM final concentration or ST247 300 nM final concentration for 1d. Cells were washed with PBS, supernatant was removed completly, then 1 ml of peqGOLD TriFast (PEQLAB) was added to each well and transfered to a 1,5 ml Eppi. Following 5 min of incubation at RT 200 ul trichloromethane were added to the solution. The probes were mixed thoroughly every 3 minutes during a 10 minute incubation at RT. Probes were centrifuged at 13.000 g for 15 min at 4 degrees C then the aquouse top phase was transfered to a new eppi containing 600 ul of ice cold 2-propanol. Probes were mixed and centrifuged for 10 min at 13.000 g, 4 degrees C. The supernatant was removed and the pelleted RNA was washed twice with 75 % Ethanol for 5 minutes at 13.000 g, 4 degrees C. The pellet was dried and dissolved in 15 ul of RNase free water following quality control using Xcalibur (Thermo scientific). Libraries were created using the Illumina Truseq mRNA kit used according to the manufacturer's instructions.",
+        "BioData": "ERR701478",
+        "Title": "ERX645742: Illumina Genome Analyzer II sequencing; Deregulation of PPAR-beta/delta target genes in tumor-associated macrophages by fatty acid ligands in the ovarian cancer microenvironment - RNAseq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991995": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991995",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153971_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153971\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387154",
+        "Title": "SRX23991995: GSM8153971: ovary, L1; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177116": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177116",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "active_ALKBH5_dox_plus_ip2",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697493",
+        "Title": "SRX9177116: GSM4799941: active_ALKBH5_dox_plus_ip2; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4500786": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4500786",
+        "Submitted": "State Key Laboratory of Silkworm Genome Biology",
+        "Design": "For RNA sequnencing, total RNA was extracted from fat body at different development stage respectively. 1-16mg fat body were dissected in PBS and directly transferred to Trizol (Invitrogen, USA), then grinded with liquid nitrogen. RNA was extracted again trichloromethane, after precipitate by isopropanol and cleared by 75% ethanol, RNA samples were stored in a refrigerator at 80C for sequencing libraries. Each cDNA sample was clustered using Oligo-dT magnetic beads and then sequenced on the HiSeq2000 (Illumina, USA) platform using Single-read techology. All of the Raw data presented in this study have been deposited in the NCBI Short Read Archive (http://www.ncbi.nlm.nih.gov/sra/) under SRA accession number",
+        "Study": "RNA-seq of Bombyx mori: male fat body",
+        "Library": "Library:\nName: P0_rep1\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR7637239",
+        "Title": "SRX4500786: RNA-seq of Bombyx mori: male fat body"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX24419490": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24419490",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8244992_r1",
+        "Study": "Multi-omics integration reveals the dynamic impacts of stock enhancement on the intestinal health condition in kaluga sturgeon (Huso dauricus)",
+        "Library": "Library:\nName: GSM8244992\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 90 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 6 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28859448",
+        "Title": "SRX24419490: GSM8244992: gut, D30FL1; Huso dauricus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177114": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177114",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "GEO accession GSM4799938 is currently private and is scheduled to be released on Sep 01, 2022.",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697491",
+        "Title": "SRX9177114: GSM4799938: active_ALKBH5_dox_plus_input2; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761848": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761848",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AA21\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410425",
+        "Title": "SRX10761848: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761856": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761856",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AB9\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410417",
+        "Title": "SRX10761856: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX6432724": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX6432724",
+        "Submitted": "Transcriptome analysis of banana (Musa acuminata) in response to low-nitrogen stress\nPRJNA554129 • SRP214312 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "NL",
+        "Library": "Library:\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: Tissues (100 mg) were placed into a precooled mortar to be ground into a powder with liquid nitrogen. The powder was collected into a precooled 2 mL Eppendorf tube with 2 mL RNase-free cetyltrimethylammonium bromide (CTAB) extracting solution, which contained 0.1% diethyl pyrocarbonate (DEPC), 2.5% CTAB, 1.4 M NaCl, 20 mM EDTA, 100 mM Tris-HCl (pH 8.0), and 4% polyvinylpyrrolidone (PVP). The tubes were then placed in a water bath at 65 °C for 30 min to induce cell lysis, and centrifuged at 13,000 rpm for 5 min at 25-28 °C. The residue was discarded, and the supernatant solution was transferred into a clean 2 mL Eppendorf tube. Trichloromethane (1 mL) was added to the supernatant solution, blended lightly, and centrifuged at 13 000 rpm for 15 min at 4 °C. The supernatant was transferred into a clean 2 mL Eppendorf tube, and this procedure was repeated once more. Subsequently, 8 M lithium chloride was added with RNase-free water to 0.6 volume of the supernatant and left overnight. The mixture was centrifuged for 30 min at 13 000 rpm and 4 °C to obtain the RNA precipitate. RNase-free ethyl alcohol (75%) was used to wash the RNA precipitate twice. Finally, RNA was dissolved in RNase-free ddH2O and stored at -80 °C until further use. Poly (A) mRNA from the total RNA was enriched by poly-T oligo-attached magnetic beads (Invitrogen), according to the manufacturer's protocol. Purified mRNA was then divided into short fragments by mixing with fragmentation buffer. The first strand cDNA was synthesized using a random hexamer primer. The buffer, dNTPs, RNase H, and DNA polymerase I were then added to the fragmented mRNA templates to synthesize the second-strand cDNA. The double-stranded cDNA was purified using magnetic beads. End repair and the addition of 3′-end single nucleotide A (adenine) were then performed. Finally, sequencing adaptors were ligated to the fragments, which were enriched by PCR amplification. During the quality control step, a 2100 Bioanalyzer (Agilent, Santa Clara, CA, USA) and a StepOnePlus Real-Time PCR System (Applied Biosystems Inc., Foster City, CA, USA) were used to qualify and quantify sequences for the sample libraries. The constructed library products were prepared for sequencing using a HiSeq 2000 system (Illumina, San Diego, CA, USA) at the Beijing Genomics Institute (BGI).",
+        "BioData": "SRR9672272",
+        "Title": "SRX6432724: GSM3938243: NL; Musa acuminata AAA Group; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177111": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177111",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "GEO accession GSM4799935 is currently private and is scheduled to be released on Sep 01, 2022.",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697488",
+        "Title": "SRX9177111: GSM4799935: active_ALKBH5_dox_minus_ip1; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4680922": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4680922",
+        "Submitted": "Transcriptomic de novo analysis of pitaya (Hylocereus polyrhizus) canker disease caused by Neoscytalidium dimidiatum\nPRJNA490886 • SRP161778 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "Diseased D3",
+        "Library": "Library:\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Tissues (100 mg) were placed into a precooled mortar to be ground into a powder with liquid nitrogen. The ground stem powder was collected into a precooled 2 mL Eppendorf tube with 2 mL RNase-free cetyltrimethylammonium bromide (CTAB) extracting solution, which contained 0.1% diethyl pyrocarbonate (DEPC), 2.5% CTAB, 1.4 M NaCl, 20 mM EDTA, 100 mM Tris-HCl (pH 8.0), and 4% polyvinylpyrrolidone (PVP). The tubes were then placed in a water bath at 65 °C for 30 min to induce cell lysis, and centrifuged at 13,000 rpm for 5 min at 25-28 °C. The residue was discarded, and the supernatant solution was transferred into a clean 2 mL Eppendorf tube. Trichloromethane (1 mL) was added to the supernatant solution, blended lightly, and centrifuged at 13 000 rpm for 15 min at 4 °C. The supernatant was transferred into a clean 2 mL Eppendorf tube, and this procedure was repeated once more. Subsequently, 8 M lithium chloride was added with RNase-free water to 0.6 volume of the supernatant and left overnight. The mixture was centrifuged for 30 min at 13 000 rpm and 4 °C to obtain the RNA precipitate. RNase-free ethyl alcohol (75%) was used to wash the RNA precipitate twice. Finally, RNA was dissolved in RNase-free ddH2O and stored at -80 °C until further use. Poly (A) mRNA from the total RNA was enriched by poly-T oligo-attached magnetic beads (Invitrogen), according to the manufacturer's protocol. Purified mRNA was then divided into short fragments by mixing with fragmentation buffer. The first strand cDNA was synthesized using a random hexamer primer. The buffer, dNTPs, RNase H, and DNA polymerase I were then added to the fragmented mRNA templates to synthesize the second-strand cDNA. The double-stranded cDNA was purified using magnetic beads. End repair and the addition of 3′-end single nucleotide A (adenine) were then performed. Finally, sequencing adaptors were ligated to the fragments, which were enriched by PCR amplification. During the quality control step, a 2100 Bioanalyzer (Agilent, Santa Clara, CA, USA) and a StepOnePlus Real-Time PCR System (Applied Biosystems Inc., Foster City, CA, USA) were used to qualify and quantify sequences for the sample libraries. The constructed library products were prepared for sequencing using a HiSeq 2000 system (Illumina, San Diego, CA, USA) at the Beijing Genomics Institute (BGI).",
+        "BioData": "SRR7829959",
+        "Title": "SRX4680922: GSM3389638: Diseased D3; Hylocereus polyrhizus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX24419488": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24419488",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8244990_r1",
+        "Study": "Multi-omics integration reveals the dynamic impacts of stock enhancement on the intestinal health condition in kaluga sturgeon (Huso dauricus)",
+        "Library": "Library:\nName: GSM8244990\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 90 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 6 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28859447",
+        "Title": "SRX24419488: GSM8244990: gut, D14FL2; Huso dauricus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761852": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761852",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AB13\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410421",
+        "Title": "SRX10761852: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX5525564": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX5525564",
+        "Submitted": "Friedrich-Loeffler-Institut Federal Research Institute for Animal Health Institute of Diagnostic Virology (Friedrich-Loeffler-Institut Federal Research Insti)",
+        "Design": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Study": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Library": "Library:\nName: BHK_179_1_s\nInstrument: NextSeq 500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PolyA\nLayout: SINGLE\nConstruction protocol: Batches of each of the cell lines BHK179, BHK-2P and BHK-InV were lysed in three volumes of TRIzol LS Reagent. Culture conditions were 37 °C, 5% CO2, and for suspension cells 320 rpm in TubeSpin bioreactors (TPP Techno Plastic Products AG, Trasadingen, Switzerland) at 80% relative humidity. All adherent cell lines were cultured in Minimum Essential Medium Eagle (MEM) supplemented with Hanks' and Earle's salts (Sigma-Aldrich) with 10% FBS. All suspension cell lines were adapted to grow in CellventoTM BHK200 medium (Merck KGaA). After adding trichloromethane the aqueous phase was collected and mixed with one volume of 100% ethanol. From this, total RNA was extracted using the RNeasy Mini Kit (Qiagen, Hilden, Germany) with on-column DNase digestion with the RNase-Free DNase Set (Qiagen). The ERCC RNA Spike-In Mix 1 (Thermo Fisher Scientific) was added and used as an internal control for all following steps. Next, polyadenylated mRNA was isolated from 1-3 µg of high-quality total RNA using the Dynabeads mRNA DIRECT Micro kit (Thermo Fisher Scientific). The mRNA was subsequently fragmented and used for cDNA synthesis and library preparation using the TruSeq Stranded mRNA LT Sample Prep Kit (Illumina, San Diego, USA) according to the manufacturer's instructions.",
+        "BioData": "ERR5882033",
+        "Title": "ERX5525564: NextSeq 500 sequencing; Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23992000": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23992000",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153976_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153976\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387149",
+        "Title": "SRX23992000: GSM8153976: ovary, L6; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761860": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761860",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: Cont7\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410413",
+        "Title": "SRX10761860: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761863": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761863",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AA17\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410410",
+        "Title": "SRX10761863: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177120": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177120",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "inactive_ALKBH5_dox_plus_ip1",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697497",
+        "Title": "SRX9177120: GSM4799947: inactive_ALKBH5_dox_plus_ip1; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/ERX5525565": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/ERX5525565",
+        "Submitted": "Friedrich-Loeffler-Institut Federal Research Institute for Animal Health Institute of Diagnostic Virology (Friedrich-Loeffler-Institut Federal Research Insti)",
+        "Design": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Study": "Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire",
+        "Library": "Library:\nName: BHK_179_2_p\nInstrument: NextSeq 500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PolyA\nLayout: PAIRED\nConstruction protocol: Batches of each of the cell lines BHK179, BHK-2P and BHK-InV were lysed in three volumes of TRIzol LS Reagent. Culture conditions were 37 °C, 5% CO2, and for suspension cells 320 rpm in TubeSpin bioreactors (TPP Techno Plastic Products AG, Trasadingen, Switzerland) at 80% relative humidity. All adherent cell lines were cultured in Minimum Essential Medium Eagle (MEM) supplemented with Hanks' and Earle's salts (Sigma-Aldrich) with 10% FBS. All suspension cell lines were adapted to grow in CellventoTM BHK200 medium (Merck KGaA). After adding trichloromethane the aqueous phase was collected and mixed with one volume of 100% ethanol. From this, total RNA was extracted using the RNeasy Mini Kit (Qiagen, Hilden, Germany) with on-column DNase digestion with the RNase-Free DNase Set (Qiagen). The ERCC RNA Spike-In Mix 1 (Thermo Fisher Scientific) was added and used as an internal control for all following steps. Next, polyadenylated mRNA was isolated from 1-3 µg of high-quality total RNA using the Dynabeads mRNA DIRECT Micro kit (Thermo Fisher Scientific). The mRNA was subsequently fragmented and used for cDNA synthesis and library preparation using the TruSeq Stranded mRNA LT Sample Prep Kit (Illumina, San Diego, USA) according to the manufacturer's instructions.",
+        "BioData": "ERR5882037",
+        "Title": "ERX5525565: NextSeq 500 paired end sequencing; Adherent and suspension baby hamster kidney cells have a different cytoskeleton and surface receptor repertoire"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991994": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991994",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153970_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153970\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387155",
+        "Title": "SRX23991994: GSM8153970: ovary, H8; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX24419491": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24419491",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8244993_r1",
+        "Study": "Multi-omics integration reveals the dynamic impacts of stock enhancement on the intestinal health condition in kaluga sturgeon (Huso dauricus)",
+        "Library": "Library:\nName: GSM8244993\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 90 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 6 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28859443",
+        "Title": "SRX24419491: GSM8244993: gut, D30FL2; Huso dauricus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX4500784": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX4500784",
+        "Submitted": "State Key Laboratory of Silkworm Genome Biology",
+        "Design": "For RNA sequnencing, total RNA was extracted from fat body at different development stage respectively. 1-14mg fat body were dissected in PBS and directly transferred to Trizol (Invitrogen, USA), then grinded with liquid nitrogen. RNA was extracted again trichloromethane, after precipitate by isopropanol and cleared by 75% ethanol, RNA samples were stored in a refrigerator at 80C for sequencing libraries. Each cDNA sample was clustered using Oligo-dT magnetic beads and then sequenced on the HiSeq2000 (Illumina, USA) platform using Single-read techology. All of the Raw data presented in this study have been deposited in the NCBI Short Read Archive (http://www.ncbi.nlm.nih.gov/sra/) under SRA accession number",
+        "Study": "RNA-seq of Bombyx mori: male fat body",
+        "Library": "Library:\nName: W2_rep1\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR7637241",
+        "Title": "SRX4500784: RNA-seq of Bombyx mori: male fat body"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX17532087": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX17532087",
+        "Submitted": "BNU",
+        "Design": "GSM6573332_r1",
+        "Study": "Granulocyte-monocyte progenitor (GMP) RNA-seq in wild type and MST1-deficient mice.",
+        "Library": "Library:\nName: GSM6573332\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Trizol and 0.2-fold volume of trichloromethane were added to the cells, and isopropanol and absolute ethanol were added to precipitate the extracted RNA. The RNA was dissolved with water and the RNA concentration and purity were detected with nano drop. RNA was enriched with magnetic beads with oligo (DT), then cDNA was synthesized using mRNA as a template, double stranded cDNA was purified and amplified by PCR.",
+        "BioData": "SRR21529729",
+        "Title": "SRX17532087: GSM6573332: WT2; Mus musculus; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX6432723": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX6432723",
+        "Submitted": "Transcriptome analysis of banana (Musa acuminata) in response to low-nitrogen stress\nPRJNA554129 • SRP214312 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "CL",
+        "Library": "Library:\nInstrument: Illumina HiSeq 2000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: Tissues (100 mg) were placed into a precooled mortar to be ground into a powder with liquid nitrogen. The powder was collected into a precooled 2 mL Eppendorf tube with 2 mL RNase-free cetyltrimethylammonium bromide (CTAB) extracting solution, which contained 0.1% diethyl pyrocarbonate (DEPC), 2.5% CTAB, 1.4 M NaCl, 20 mM EDTA, 100 mM Tris-HCl (pH 8.0), and 4% polyvinylpyrrolidone (PVP). The tubes were then placed in a water bath at 65 °C for 30 min to induce cell lysis, and centrifuged at 13,000 rpm for 5 min at 25-28 °C. The residue was discarded, and the supernatant solution was transferred into a clean 2 mL Eppendorf tube. Trichloromethane (1 mL) was added to the supernatant solution, blended lightly, and centrifuged at 13 000 rpm for 15 min at 4 °C. The supernatant was transferred into a clean 2 mL Eppendorf tube, and this procedure was repeated once more. Subsequently, 8 M lithium chloride was added with RNase-free water to 0.6 volume of the supernatant and left overnight. The mixture was centrifuged for 30 min at 13 000 rpm and 4 °C to obtain the RNA precipitate. RNase-free ethyl alcohol (75%) was used to wash the RNA precipitate twice. Finally, RNA was dissolved in RNase-free ddH2O and stored at -80 °C until further use. Poly (A) mRNA from the total RNA was enriched by poly-T oligo-attached magnetic beads (Invitrogen), according to the manufacturer's protocol. Purified mRNA was then divided into short fragments by mixing with fragmentation buffer. The first strand cDNA was synthesized using a random hexamer primer. The buffer, dNTPs, RNase H, and DNA polymerase I were then added to the fragmented mRNA templates to synthesize the second-strand cDNA. The double-stranded cDNA was purified using magnetic beads. End repair and the addition of 3′-end single nucleotide A (adenine) were then performed. Finally, sequencing adaptors were ligated to the fragments, which were enriched by PCR amplification. During the quality control step, a 2100 Bioanalyzer (Agilent, Santa Clara, CA, USA) and a StepOnePlus Real-Time PCR System (Applied Biosystems Inc., Foster City, CA, USA) were used to qualify and quantify sequences for the sample libraries. The constructed library products were prepared for sequencing using a HiSeq 2000 system (Illumina, San Diego, CA, USA) at the Beijing Genomics Institute (BGI).",
+        "BioData": "SRR9672271",
+        "Title": "SRX6432723: GSM3938242: CL; Musa acuminata AAA Group; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177113": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177113",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "active_ALKBH5_dox_plus_input1",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697490",
+        "Title": "SRX9177113: GSM4799937: active_ALKBH5_dox_plus_input1; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761857": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761857",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: Cont4\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410416",
+        "Title": "SRX10761857: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX10761853": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX10761853",
+        "Submitted": "China Pharmaceutical University",
+        "Design": "DNA extracted via phenol-Trichloromethane method, and V4 region amplified with primer of 515F and 806R, then Illumina NovaSeq 6000 used for sequencing",
+        "Study": "16S sequencing of amlodipine treated NAFLD & hypertension mice",
+        "Library": "Library:\nName: AB14\nInstrument: Illumina NovaSeq 6000\nStrategy: AMPLICON\nSource: GENOMIC\nSelection: PCR\nLayout: SINGLE",
+        "BioData": "SRR14410420",
+        "Title": "SRX10761853: 16S rDNA V4 region sequencing of mus musculus: adult male cecum content"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX23991993": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX23991993",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8153969_r1",
+        "Study": "Critical gene filtration for the caviar yield of hybrid sturgeon",
+        "Library": "Library:\nName: GSM8153969\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA simple extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in ovary tissues. 60 mg fresh tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 4 min, the mixture was centrifuged at 12000 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragmentation with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that were provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (300±50 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR28387156",
+        "Title": "SRX23991993: GSM8153969: ovary, H7; Huso dauricus x Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX25145397": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX25145397",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8367753_r1",
+        "Study": "Dynamic impacts of stock enhancement on wild Amur sturgeon (Acipenser schrenkii): New protection insight into intestinal microbe and gene expression mode",
+        "Library": "Library:\nName: GSM8367753\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 100 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 7 min, the mixture was centrifuged at 12500 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR29640990",
+        "Title": "SRX25145397: GSM8367753: gut, Q3; Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX25145399": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX25145399",
+        "Submitted": "Northeast Normal University",
+        "Design": "GSM8367755_r1",
+        "Study": "Dynamic impacts of stock enhancement on wild Amur sturgeon (Acipenser schrenkii): New protection insight into intestinal microbe and gene expression mode",
+        "Library": "Library:\nName: GSM8367755\nInstrument: Illumina NovaSeq 6000\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: PAIRED\nConstruction protocol: Commercial RNA sample extraction kit (DP419, TIANGEN, China) was selected to extract the total RNA in gut tissues. 100 mg fresh intestine tissue was ground by high-speed homogenizer (DHFSTPRP-32D, LAWSON, China) with 1 mL lysis buffer RZ to obtain homogenate and then trichloromethane was added. After staying at room temperature for 7 min, the mixture was centrifuged at 12500 rpm to obtain the aqueous phase that was mixed with absolute ethyl alcohol. RD solution was used to remove residual protein impurity in RNA samples and the purified total RNA was stored at RNase-free tubes after repeated centrifugation. When RNA integrity number > 7.0 and A260/280 > 1.8, messenger RNA (mRNA) with poly A was caught using oligo(dT) dynabeads (25-61005, THERMO FISHER, USA) and then broken into fragment with the specific kit (E6150S, NEBNEST, USA). Double-strands complementary DNA was synthesized based on the reverse transcriptase and E. coli DNA polymerase I that was provided by LIANCHUAN BIO TECHNOLOGIES Co., LTD (Hangzhou, China). Paired-ends of the complementary DNA were added with a “A” base, which could combine with the adapter sequence. After the second strand was digested, the sequencing library (150 bp) was established by amplifying the target sequences.",
+        "BioData": "SRR29640991",
+        "Title": "SRX25145399: GSM8367755: gut, H2; Acipenser schrenckii; RNA-Seq"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177117": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177117",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "inactive_ALKBH5_dox_minus_input1",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697494",
+        "Title": "SRX9177117: GSM4799943: inactive_ALKBH5_dox_minus_input1; Homo sapiens; OTHER"
+    },
+    "trichloromethane-->https://www.ncbi.nlm.nih.gov/sra/SRX9177115": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX9177115",
+        "Submitted": "Targeted RNA N6-Methyladenosine Demethylation Controls Cell Fate Transition in Human Pluripotent Stem Cells\nPRJNA665206 • SRP285100 • All experiments • All runs\nshow Abstract",
+        "Design": "NCBI (GEO)",
+        "Study": "active_ALKBH5_dox_plus_ip1",
+        "Library": "Library:\nInstrument: HiSeq X Ten\nStrategy: OTHER\nSource: TRANSCRIPTOMIC\nSelection: other\nLayout: PAIRED\nConstruction protocol: Cells were washed with PBS and lysed with TRIzol (Thermo Fisher Scientific). Then trichloromethane (Guangzhou Chemical Reagent Factory) was used to extract the total RNA from the TRIzol lysate. Isopropanol (Sangon Biotech) was used to precipitates RNA from the mixture. mRNA was separated from the total RNA by using the Dynabeads™ mRNA Purification Kit (Thermo Fisher Scientific) according to the manufacturer's protocol. The m6A immunoprecipitation method was the same as above. Input samples and IP samples were applied for NGS library construction by using the NEBNext® Ultra II Directional RNA Library Prep (NEB) according to the manufacturer's guide. The adaptor ligated DNAs amplified by PCR for 15 cycles were sequenced on the HiSeqX sequencing platform.",
+        "BioData": "SRR12697492",
+        "Title": "SRX9177115: GSM4799940: active_ALKBH5_dox_plus_ip1; Homo sapiens; OTHER"
+    },
+    "Trichlorophenol -->https://www.ncbi.nlm.nih.gov/sra/SRX24052351": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24052351",
+        "Submitted": "Department of Veterinary Integrative Biosciences, Texas A&M University",
+        "Design": "GSM8168282_r1",
+        "Study": "Informing Hazard Identification and Risk Characterization of Environmental Chemicals by Combining Transcriptomic and Functional Data from Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes",
+        "Library": "Library:\nName: GSM8168282\nInstrument: Illumina HiSeq 2500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: The media and chemicals from the 384-well plates was fully aspirated and replaced with 10 μL/well of 2X lysis buffer. The plates were then shaken using an orbital plate shaker for 10 minutes. The plates were then checked to ensure that the cells were lysed, and if not placed back on the plate shaker for an additional five minutes. Once the cells were lysed, adhesive seals were placed on the plates and the lysates were frozen in the 384-well plates and stored at −80 °C until further processing. The Templated Oligonucleotide Sequencing Assay (TempO-Seq™, BioSpyder Technologies, Carlsbad, CA) was used as an RNA sequencing technology of choice. Detailed protocols for TempO-seq are provided by the manufacturer and were previously reported detailed elsewhere (Grimm et al., 2016; House et al., 2022). TempO-seq libraries were prepared using the human whole transcriptome panel consisting of 22,537 protein-coding transcripts.",
+        "BioData": "SRR28449004",
+        "Title": "SRX24052351: GSM8168282: Plate13_E17; Homo sapiens; RNA-Seq"
+    },
+    "Trichlorophenol -->https://www.ncbi.nlm.nih.gov/sra/SRX24052370": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24052370",
+        "Submitted": "Department of Veterinary Integrative Biosciences, Texas A&M University",
+        "Design": "GSM8168349_r1",
+        "Study": "Informing Hazard Identification and Risk Characterization of Environmental Chemicals by Combining Transcriptomic and Functional Data from Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes",
+        "Library": "Library:\nName: GSM8168349\nInstrument: Illumina HiSeq 2500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: The media and chemicals from the 384-well plates was fully aspirated and replaced with 10 μL/well of 2X lysis buffer. The plates were then shaken using an orbital plate shaker for 10 minutes. The plates were then checked to ensure that the cells were lysed, and if not placed back on the plate shaker for an additional five minutes. Once the cells were lysed, adhesive seals were placed on the plates and the lysates were frozen in the 384-well plates and stored at −80 °C until further processing. The Templated Oligonucleotide Sequencing Assay (TempO-Seq™, BioSpyder Technologies, Carlsbad, CA) was used as an RNA sequencing technology of choice. Detailed protocols for TempO-seq are provided by the manufacturer and were previously reported detailed elsewhere (Grimm et al., 2016; House et al., 2022). TempO-seq libraries were prepared using the human whole transcriptome panel consisting of 22,537 protein-coding transcripts.",
+        "BioData": "SRR28448985",
+        "Title": "SRX24052370: GSM8168349: Plate13_H17; Homo sapiens; RNA-Seq"
+    },
+    "Trichlorophenol -->https://www.ncbi.nlm.nih.gov/sra/SRX24052383": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24052383",
+        "Submitted": "Department of Veterinary Integrative Biosciences, Texas A&M University",
+        "Design": "GSM8168400_r1",
+        "Study": "Informing Hazard Identification and Risk Characterization of Environmental Chemicals by Combining Transcriptomic and Functional Data from Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes",
+        "Library": "Library:\nName: GSM8168400\nInstrument: Illumina HiSeq 2500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: The media and chemicals from the 384-well plates was fully aspirated and replaced with 10 μL/well of 2X lysis buffer. The plates were then shaken using an orbital plate shaker for 10 minutes. The plates were then checked to ensure that the cells were lysed, and if not placed back on the plate shaker for an additional five minutes. Once the cells were lysed, adhesive seals were placed on the plates and the lysates were frozen in the 384-well plates and stored at −80 °C until further processing. The Templated Oligonucleotide Sequencing Assay (TempO-Seq™, BioSpyder Technologies, Carlsbad, CA) was used as an RNA sequencing technology of choice. Detailed protocols for TempO-seq are provided by the manufacturer and were previously reported detailed elsewhere (Grimm et al., 2016; House et al., 2022). TempO-seq libraries were prepared using the human whole transcriptome panel consisting of 22,537 protein-coding transcripts.",
+        "BioData": "SRR28448972",
+        "Title": "SRX24052383: GSM8168400: Plate13_I17; Homo sapiens; RNA-Seq"
+    },
+    "Trichlorophenol -->https://www.ncbi.nlm.nih.gov/sra/SRX24052501": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24052501",
+        "Submitted": "Department of Veterinary Integrative Biosciences, Texas A&M University",
+        "Design": "GSM8168426_r1",
+        "Study": "Informing Hazard Identification and Risk Characterization of Environmental Chemicals by Combining Transcriptomic and Functional Data from Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes",
+        "Library": "Library:\nName: GSM8168426\nInstrument: Illumina HiSeq 2500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: The media and chemicals from the 384-well plates was fully aspirated and replaced with 10 μL/well of 2X lysis buffer. The plates were then shaken using an orbital plate shaker for 10 minutes. The plates were then checked to ensure that the cells were lysed, and if not placed back on the plate shaker for an additional five minutes. Once the cells were lysed, adhesive seals were placed on the plates and the lysates were frozen in the 384-well plates and stored at −80 °C until further processing. The Templated Oligonucleotide Sequencing Assay (TempO-Seq™, BioSpyder Technologies, Carlsbad, CA) was used as an RNA sequencing technology of choice. Detailed protocols for TempO-seq are provided by the manufacturer and were previously reported detailed elsewhere (Grimm et al., 2016; House et al., 2022). TempO-seq libraries were prepared using the human whole transcriptome panel consisting of 22,537 protein-coding transcripts.",
+        "BioData": "SRR28449198",
+        "Title": "SRX24052501: GSM8168426: Plate13_K17; Homo sapiens; RNA-Seq"
+    },
+    "Trichlorophenol -->https://www.ncbi.nlm.nih.gov/sra/SRX24052631": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24052631",
+        "Submitted": "Department of Veterinary Integrative Biosciences, Texas A&M University",
+        "Design": "GSM8168232_r1",
+        "Study": "Informing Hazard Identification and Risk Characterization of Environmental Chemicals by Combining Transcriptomic and Functional Data from Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes",
+        "Library": "Library:\nName: GSM8168232\nInstrument: Illumina HiSeq 2500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: The media and chemicals from the 384-well plates was fully aspirated and replaced with 10 μL/well of 2X lysis buffer. The plates were then shaken using an orbital plate shaker for 10 minutes. The plates were then checked to ensure that the cells were lysed, and if not placed back on the plate shaker for an additional five minutes. Once the cells were lysed, adhesive seals were placed on the plates and the lysates were frozen in the 384-well plates and stored at −80 °C until further processing. The Templated Oligonucleotide Sequencing Assay (TempO-Seq™, BioSpyder Technologies, Carlsbad, CA) was used as an RNA sequencing technology of choice. Detailed protocols for TempO-seq are provided by the manufacturer and were previously reported detailed elsewhere (Grimm et al., 2016; House et al., 2022). TempO-seq libraries were prepared using the human whole transcriptome panel consisting of 22,537 protein-coding transcripts.",
+        "BioData": "SRR28449068",
+        "Title": "SRX24052631: GSM8168232: Plate13_C17; Homo sapiens; RNA-Seq"
+    },
+    "Trichlorophenol -->https://www.ncbi.nlm.nih.gov/sra/SRX24052655": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24052655",
+        "Submitted": "Department of Veterinary Integrative Biosciences, Texas A&M University",
+        "Design": "GSM8168304_r1",
+        "Study": "Informing Hazard Identification and Risk Characterization of Environmental Chemicals by Combining Transcriptomic and Functional Data from Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes",
+        "Library": "Library:\nName: GSM8168304\nInstrument: Illumina HiSeq 2500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: The media and chemicals from the 384-well plates was fully aspirated and replaced with 10 μL/well of 2X lysis buffer. The plates were then shaken using an orbital plate shaker for 10 minutes. The plates were then checked to ensure that the cells were lysed, and if not placed back on the plate shaker for an additional five minutes. Once the cells were lysed, adhesive seals were placed on the plates and the lysates were frozen in the 384-well plates and stored at −80 °C until further processing. The Templated Oligonucleotide Sequencing Assay (TempO-Seq™, BioSpyder Technologies, Carlsbad, CA) was used as an RNA sequencing technology of choice. Detailed protocols for TempO-seq are provided by the manufacturer and were previously reported detailed elsewhere (Grimm et al., 2016; House et al., 2022). TempO-seq libraries were prepared using the human whole transcriptome panel consisting of 22,537 protein-coding transcripts.",
+        "BioData": "SRR28449044",
+        "Title": "SRX24052655: GSM8168304: Plate13_G17; Homo sapiens; RNA-Seq"
+    },
+    "Trichlorophenol -->https://www.ncbi.nlm.nih.gov/sra/SRX24052305": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24052305",
+        "Submitted": "Department of Veterinary Integrative Biosciences, Texas A&M University",
+        "Design": "GSM8168376_r1",
+        "Study": "Informing Hazard Identification and Risk Characterization of Environmental Chemicals by Combining Transcriptomic and Functional Data from Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes",
+        "Library": "Library:\nName: GSM8168376\nInstrument: Illumina HiSeq 2500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: The media and chemicals from the 384-well plates was fully aspirated and replaced with 10 μL/well of 2X lysis buffer. The plates were then shaken using an orbital plate shaker for 10 minutes. The plates were then checked to ensure that the cells were lysed, and if not placed back on the plate shaker for an additional five minutes. Once the cells were lysed, adhesive seals were placed on the plates and the lysates were frozen in the 384-well plates and stored at −80 °C until further processing. The Templated Oligonucleotide Sequencing Assay (TempO-Seq™, BioSpyder Technologies, Carlsbad, CA) was used as an RNA sequencing technology of choice. Detailed protocols for TempO-seq are provided by the manufacturer and were previously reported detailed elsewhere (Grimm et al., 2016; House et al., 2022). TempO-seq libraries were prepared using the human whole transcriptome panel consisting of 22,537 protein-coding transcripts.",
+        "BioData": "SRR28448706",
+        "Title": "SRX24052305: GSM8168376: Plate13_J17; Homo sapiens; RNA-Seq"
+    },
+    "Trichlorophenol -->https://www.ncbi.nlm.nih.gov/sra/SRX24052291": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24052291",
+        "Submitted": "Department of Veterinary Integrative Biosciences, Texas A&M University",
+        "Design": "GSM8168326_r1",
+        "Study": "Informing Hazard Identification and Risk Characterization of Environmental Chemicals by Combining Transcriptomic and Functional Data from Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes",
+        "Library": "Library:\nName: GSM8168326\nInstrument: Illumina HiSeq 2500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: The media and chemicals from the 384-well plates was fully aspirated and replaced with 10 μL/well of 2X lysis buffer. The plates were then shaken using an orbital plate shaker for 10 minutes. The plates were then checked to ensure that the cells were lysed, and if not placed back on the plate shaker for an additional five minutes. Once the cells were lysed, adhesive seals were placed on the plates and the lysates were frozen in the 384-well plates and stored at −80 °C until further processing. The Templated Oligonucleotide Sequencing Assay (TempO-Seq™, BioSpyder Technologies, Carlsbad, CA) was used as an RNA sequencing technology of choice. Detailed protocols for TempO-seq are provided by the manufacturer and were previously reported detailed elsewhere (Grimm et al., 2016; House et al., 2022). TempO-seq libraries were prepared using the human whole transcriptome panel consisting of 22,537 protein-coding transcripts.",
+        "BioData": "SRR28448720",
+        "Title": "SRX24052291: GSM8168326: Plate13_F17; Homo sapiens; RNA-Seq"
+    },
+    "Trichlorophenol -->https://www.ncbi.nlm.nih.gov/sra/SRX24052131": {
+        "Link": "https://www.ncbi.nlm.nih.gov/sra/SRX24052131",
+        "Submitted": "Department of Veterinary Integrative Biosciences, Texas A&M University",
+        "Design": "GSM8168250_r1",
+        "Study": "Informing Hazard Identification and Risk Characterization of Environmental Chemicals by Combining Transcriptomic and Functional Data from Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes",
+        "Library": "Library:\nName: GSM8168250\nInstrument: Illumina HiSeq 2500\nStrategy: RNA-Seq\nSource: TRANSCRIPTOMIC\nSelection: cDNA\nLayout: SINGLE\nConstruction protocol: The media and chemicals from the 384-well plates was fully aspirated and replaced with 10 μL/well of 2X lysis buffer. The plates were then shaken using an orbital plate shaker for 10 minutes. The plates were then checked to ensure that the cells were lysed, and if not placed back on the plate shaker for an additional five minutes. Once the cells were lysed, adhesive seals were placed on the plates and the lysates were frozen in the 384-well plates and stored at −80 °C until further processing. The Templated Oligonucleotide Sequencing Assay (TempO-Seq™, BioSpyder Technologies, Carlsbad, CA) was used as an RNA sequencing technology of choice. Detailed protocols for TempO-seq are provided by the manufacturer and were previously reported detailed elsewhere (Grimm et al., 2016; House et al., 2022). TempO-seq libraries were prepared using the human whole transcriptome panel consisting of 22,537 protein-coding transcripts.",
+        "BioData": "SRR28448536",
+        "Title": "SRX24052131: GSM8168250: Plate13_D17; Homo sapiens; RNA-Seq"
+    }
+}
