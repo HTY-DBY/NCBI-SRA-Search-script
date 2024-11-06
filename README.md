@@ -32,7 +32,7 @@ main_2.py 使用 ```Link_results.json``` 的数据，结束后会在 ```\Data\Da
 
 将 ```Translated_results.json``` 的数据写入到 Word 中方便查看，存放在 ```\Data\Data_fin\``` 下，并以各个关键词分开文档：
 
-![](.README_images/f5754cbc.png)
+![](.README_images/8e771c67.png)
 
 ## 2.5. Test
 
